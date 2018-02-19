@@ -1,6 +1,6 @@
 # DesignPattern
 
-Implementing Java Design Patters
+Implementing Java Design Patterns
 
 Factory
 Decorator
